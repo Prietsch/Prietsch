@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Prietsch 
-- 👀 I’m interested in languages and programming, obvious
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m @Prietsch;
+- 👀 I’m interested in languages and programming, obvious;
+- 🌱 I’m currently learning JS and C++;
+- 🐱‍👤 And i'm trying to learn verilog, but this's hard;
 
 <!---
 Prietsch/Prietsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
